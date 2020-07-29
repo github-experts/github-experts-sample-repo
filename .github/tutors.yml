@@ -1,16 +1,15 @@
-tutors:
-  patniko:
-    timeZone: 'America/Los_Angeles'
-    startTime: 8:00
-    endTime: 18:00
-    excludeWeekends: true
-    rate: 50.00
-    openToDonate: true
-  robdavisMS:
-    timeZone: 'America/Toronto'
-    startTime: 9:00
-    endTime: 17:00
-    excludeWeekends: false
-    rate: 30.00
-    openToDonate: true
-    email: 'rob.davis@microsoft.com'
+experts:
+- handle: 'patniko'
+  timeZone: 'America/Los_Angeles'
+  startTime: 8:00
+  endTime: 18:00
+  excludeWeekends: true
+  rate: 50.00
+  openToDonate: true
+- handle: 'robdavisMS'
+  timeZone: 'America/Toronto'
+  startTime: 9:00
+  endTime: 17:00
+  excludeWeekends: false
+  rate: 30.00
+  openToDonate: true
